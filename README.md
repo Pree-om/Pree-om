@@ -17,7 +17,7 @@ I enjoy solving problems, learning new things, and growing as a developer. Alway
 ---
 
 ### 🎨 Fun Illustration  
-![Developer at work]
+![Developer at work](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b761111vzv3uliwxoj98p7irok0v2kkms2kizlftj1pyc&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
 
