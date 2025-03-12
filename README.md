@@ -37,7 +37,7 @@ I enjoy solving problems, learning new things, and growing as a developer. Alway
 ## 🚀 **LeetCode Progress**  
 📌 **[LeetCode Profile](https://leetcode.com/u/PreeOm/)** – Check out my latest problems solved and challenges completed.  
 
-📈 **LeetCode Heatmap** (Auto-updates daily):  
+📈 **LeetCode Heatmap**:  
 <p align="center">
   <a href="https://leetcode.com/u/PreeOm/">
     <img src="https://leetcard.jacoblin.cool/PreeOm?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Heatmap">
