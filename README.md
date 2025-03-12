@@ -29,7 +29,7 @@ I enjoy solving problems, learning new things, and growing as a developer. Alway
 ---
 
 ### 🚀 LeetCode Progress  
-Instead of static badges, track my coding streaks here:  
+Track my coding streaks here:  
 📌 **[LeetCode Profile](https://leetcode.com/u/PreeOm/)** – Check out my latest problems solved and challenges completed.  
 
 📈 **LeetCode Heatmap** (Auto-updates daily):  
