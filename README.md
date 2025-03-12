@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Pree Om 👋</h1>
 
 <p align="center">
-   👀 <img src="https://komarev.com/ghpvc/?username=Pree-om&label=Profile%20Views&color=blue&style=for-the-badge" alt="GitHub Profile Views" />
+  👀 <img src="https://komarev.com/ghpvc/?username=Pree-om&label=GitHub%20Profile%20Views&color=blue&style=for-the-badge" alt="GitHub Profile Views" />
 </p>
-
 
 ---
 
@@ -28,8 +27,14 @@ I enjoy solving problems, learning new things, and growing as a developer. Alway
 
 ---
 
-### 🚀 LeetCode Progress  
-Track my coding streaks here:  
+## 🚀 **GitHub Contribution Graph**  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pree-om&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## 🚀 **LeetCode Progress**  
 📌 **[LeetCode Profile](https://leetcode.com/u/PreeOm/)** – Check out my latest problems solved and challenges completed.  
 
 📈 **LeetCode Heatmap** (Auto-updates daily):  
