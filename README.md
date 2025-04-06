@@ -9,6 +9,8 @@
 ## 😊 Glad to see you here!  
 I enjoy solving problems, learning new things, and growing as a developer. Always open to discussions and collaborations!  
 
+🌐 **Portfolio**: [pree-om.github.io/pf](https://pree-om.github.io/pf)
+
 ---
 
 ### 💬 About Me:  
