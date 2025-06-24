@@ -22,13 +22,6 @@ I enjoy solving problems, learning new things, and growing as a developer. Alway
 
 ---
 
-### 🎨 Fun Illustration  
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="500px" alt="Developer at work">
-</p>
-
----
-
 ## 🚀 **GitHub Contribution Graph**  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pree-om&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
