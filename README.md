@@ -12,8 +12,14 @@
 I don’t just write code. I build logic, break problems, and breathe creativity into software.  
 Here, every commit tells a story of curiosity, hustle, and growth.
 
-🔗 **Portfolio** → [Where innovation lives.](https://pree-om.github.io/pf)  
-📫 **Connect** → [LinkedIn](https://linkedin.com/in/pree-om) • [LeetCode](https://leetcode.com/u/PreeOm/) • [GitHub](https://github.com/Pree-om)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://pree-om.github.io/pf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pree-om)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PreeOm/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pree-om)
+
+</div>
 
 ---
 
