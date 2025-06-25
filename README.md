@@ -1,44 +1,58 @@
-<h1 align="center">Hi there, I'm Pree Om 👋</h1>
+<h1 align="center">Hey, I'm Pree Om 👨‍💻</h1>
+<p align="center"><i>Engineer by skill, artist at heart, caffeine-powered problem solver.</i></p>
 
 <p align="center">
-  👀 <img src="https://komarev.com/ghpvc/?username=Pree-om&label=GitHub%20Profile%20Views&color=blue&style=for-the-badge" alt="GitHub Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Pree-om&label=Profile%20Views&color=0e75b6&style=flat-square" alt="GitHub Profile Views" />
 </p>
 
 ---
 
-## 😊 Glad to see you here!  
-I enjoy solving problems, learning new things, and growing as a developer. Always open to discussions and collaborations!  
+## 🚀 Welcome to My Universe  
 
-🌐 **Portfolio**: [View My Work – Where Innovation Lives.](https://pree-om.github.io/pf)
+I don’t just write code. I build logic, break problems, and breathe creativity into software.  
+Here, every commit tells a story of curiosity, hustle, and growth.
 
----
-
-### 💬 About Me:  
-- 🌱 Always learning and improving  
-- 💡 Love solving coding challenges  
-- 🤝 Open to connecting with like-minded developers  
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: 90% caffeine, 10% code  
+🔗 **Portfolio** → [Where innovation lives.](https://pree-om.github.io/pf)  
+📫 **Connect** → [LinkedIn](https://linkedin.com/in/pree-om) • [LeetCode](https://leetcode.com/u/PreeOm/) • [GitHub](https://github.com/Pree-om)
 
 ---
 
-## 🚀 **GitHub Contribution Graph**  
+## 🌌 About Me  
+
+- 🧠 Always sharpening my skills in AI, ML, and full-stack development  
+- 💻 Hackathon believer • Real-world builder • Night owl developer  
+- 🤝 Open to collaborations and meaningful side-projects  
+- ⚡ Fun fact: I can debug with one eye open (literally at 2am)
+
+---
+
+## 🔥 Coding Footprints
+
+### 📊 GitHub Contributions  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pree-om&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pree-om&theme=react-dark&hide_border=true" alt="Contribution Graph">
 </p>
 
----
-
-## 🚀 **LeetCode Progress**  
-📌 **[LeetCode Profile](https://leetcode.com/u/PreeOm/)** – Check out my latest problems solved and challenges completed.  
-
-📈 **LeetCode Heatmap**:  
+### 🧠 LeetCode Vibes  
+📍 Solving one algorithm at a time: [View Profile](https://leetcode.com/u/PreeOm/)  
 <p align="center">
   <a href="https://leetcode.com/u/PreeOm/">
-    <img src="https://leetcard.jacoblin.cool/PreeOm?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Heatmap">
+    <img src="https://leetcard.jacoblin.cool/PreeOm?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats">
   </a>
 </p>
 
 ---
 
-<h3 align="center">⭐ Let's connect and build something great! ⭐</h3>
+## 🛠️ Tech Arsenal  
+
+**Languages**: `Python` `JavaScript` `C++`  
+**Frameworks**: `React` `Tailwind` `Node.js`  
+**Tools**: `Git` `VS Code`  
+**Interests**: `AI` `Computer Vision` `Web 3` `Edge ML` `Docker` `Postman`
+
+---
+
+<h3 align="center">✨ Let's connect, collaborate & create. ✨</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+impactful+solutions...;Breaking+things+to+build+better.;Let’s+build+something+awesome!&center=true&width=500&color=F7F7F7&vCenter=true&size=18">
+</p>
