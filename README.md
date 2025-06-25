@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Pree Om 👨‍💻</h1>
+<h1 align="center">Hey, I'm Pree Om </h1>
 <p align="center"><i>Engineer by skill, artist at heart, caffeine-powered problem solver.</i></p>
 
 <p align="center">
@@ -17,7 +17,6 @@ Here, every commit tells a story of curiosity, hustle, and growth.
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://pree-om.github.io/pf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pree-om)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PreeOm/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pree-om)
 
 </div>
 
