@@ -50,7 +50,7 @@ Here, every commit tells a story of curiosity, hustle, and growth.
 
 ## 🛠️ Tech Arsenal  
 
-**Languages**: `Python` `JavaScript` `C++`  
+**Languages**: `Python` `JavaScript` `Java`  
 **Frameworks**: `React` `Tailwind` `Node.js`  
 **Tools**: `Git` `VS Code`  
 **Interests**: `AI` `Computer Vision` `Web 3` `Edge ML` `Docker` `Postman`
