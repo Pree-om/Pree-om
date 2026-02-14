@@ -95,11 +95,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ompree29@gmail.com)
 
 </div>
-
----
-
-  <p><i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i></p>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;Let's+build+something+awesome+together!;Check+out+my+repositories+↓" />
-  </p>
-</div>
