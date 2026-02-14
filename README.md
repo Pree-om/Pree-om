@@ -38,6 +38,18 @@
 
 ---
 
+🏅 GitHub Achievements
+
+<div align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="110" alt="Starstruck" title="Starstruck" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="110" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110" alt="Pull Shark" title="Pull Shark" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="110" alt="YOLO" title="YOLO" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110" alt="Quickdraw" title="Quickdraw" />
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
