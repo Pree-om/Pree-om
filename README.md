@@ -36,15 +36,15 @@
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pree-om&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00fff7&icon_color=00fff7&text_color=c9d1d9&ring_color=00fff7" />
+<img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pree-om&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00fff7&icon_color=00fff7&text_color=c9d1d9&ring_color=00fff7&locale=en" />
 &nbsp;
-<img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pree-om&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000&title_color=00fff7&text_color=c9d1d9" />
+<img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pree-om&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000&title_color=00fff7&text_color=c9d1d9&locale=en" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Pree-om&theme=tokyonight&hide_border=true&background=00000000&ring=00fff7&fire=00fff7&currStreakLabel=00fff7&sideLabels=00fff7&dates=888888&stroke=00fff720" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Pree-om&theme=tokyonight&hide_border=true&background=00000000&ring=00fff7&fire=00fff7&currStreakLabel=00fff7&sideLabels=00fff7&dates=888888&stroke=00fff720&cache=false" />
 
 </div>
 
